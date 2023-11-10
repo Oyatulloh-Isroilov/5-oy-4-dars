@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  margin-top: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #655757;
+  border: 7px solid gray;
+  border-radius: 8px;
+  padding: 13px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+}
+
+strong {
+  display: flex;
+  justify-content: center;
+}
+
+#btn {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background: gray;
+  padding: 3px;
+  border: 3px solid rgb(71, 71, 71);
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#ranNum {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background: #a3a3a3;
+  margin-top: 50px;
+  width: 240px;
+  height: 40px;
+  font-size: 20px;
+}
